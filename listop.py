@@ -1,0 +1,12 @@
+il=[1,2,3,46,5,6.9,"hello",'c',-1.5,[1,2,34,4]]
+print(il)
+il.insert(7,"New element")
+il.insert(2,2)
+print(il)
+il.append("ok")
+print(il)
+il.remove(2)
+print(il)
+il.pop()
+il.pop(3)
+print(il)
